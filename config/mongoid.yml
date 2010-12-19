@@ -1,0 +1,5 @@
+development:
+  <<: *defaults
+  username: testuser
+  password: testpassword
+  database: mongoid_rails3_app_development
